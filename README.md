@@ -1,5 +1,5 @@
 # Brick_Ball
-**Hi 👋🏼, This is Sahithi, **
+** Hi 👋🏼, This is Sahithi, **
 
 # Intro about brick ball
 ![image](https://user-images.githubusercontent.com/101516809/158068862-d0bbc639-f986-49ee-b870-fc2b4ecfcc5c.png)
@@ -9,13 +9,13 @@ Ball brick is a game where there will be a ball at the ground level and with tha
 
 # Run Program 
 
-**For Windows OS ,  **
+** For Windows OS ,  **
 -  Download Python App and install 
 -  Download zip file and extract zip
 -  open Command prompt in extracted Directory 
 -  Run the Program `python FileName.py`
 
-**For Linux OS , **
+** For Linux OS , **
 -  Open terminal
 -  Clone Repository with ` git clone https://github.com/SahithiSatyanarayna/Brick_Ball.git`
 -  Enter into the Directory cloned directory with   ` cd ZOHO-Assignment_BRICK-BALL `
