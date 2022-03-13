@@ -18,6 +18,6 @@ Ball brick is a game where there will be a ball at the ground level and with tha
 **For Linux OS ,**
 -  Open terminal
 -  Clone Repository with ` git clone https://github.com/SahithiSatyanarayna/Brick_Ball.git`
--  Enter into the Directory cloned directory with   ` cd ZOHO-Assignment_BRICK-BALL `
+-  Enter into the Directory cloned directory with   ` cd BRICK_BALL `
 -  Download python with   ` sudo apt-get install python `
 -  Run program with   ` python3 FileName.py `
